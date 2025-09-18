@@ -95,45 +95,5 @@ c = float(input("Enter third number: "))
 largest_number = max(a, b, c)
 print("Largest number is:", largest_number)
 
-# 16. Python program to find sum of first n natural numbers
-n = int(input("Enter input: "))
-sum_n = n * (n + 1) // 2
-print("Sum =", sum_n)
 
-# 17. Python program for arithmetic operations
-a = 10
-b = 20
-print("Addition =", a + b)
-print("Subtraction =", a - b)
-print("Multiplication =", a * b)
-print("Modulo =", a % b)
 
-# 18. Python program to demonstrate logical operators
-a = 10
-b = 12
-print(a > 0 and b > 15)
-print(a > 15 or b > 5)
-print(not(a == 10))
-
-# 19. Python program to check positive, negative, or zero
-a = int(input("Enter the number: "))
-if a > 0:
-    print("Positive")
-elif a < 0:
-    print("Negative")
-else:
-    print("Zero")
-
-# 20. Python program to check even or odd
-a = int(input("Enter the number: "))
-if a % 2 == 0:
-    print("Number is even")
-else:
-    print("Number is odd")
-
-# 21. Python program to check divisibility by 5 and 11
-a = int(input("Enter the number: "))
-if a % 5 == 0 and a % 11 == 0:
-    print("The number is divisible by 5 and 11")
-else:
-    print("The number is not divisible by 5 and 11")
