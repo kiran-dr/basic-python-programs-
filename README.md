@@ -5,7 +5,7 @@ Programs are split into two Python files, each with numbered sections for easy r
 
 ## Programs Included
 
-### basic_python_programs_1.py
+### basic python programs 1.py
 
 1. Python program to print your name  
 2. Get input from user and print  
@@ -23,7 +23,7 @@ Programs are split into two Python files, each with numbered sections for easy r
 14. Multiply floating point numbers  
 15. Largest of three numbers  
 
-### basic_python_programs_2.py
+### basic python programs 2.py
 
 16. Sum of first n natural numbers  
 17. Arithmetic operations  
@@ -45,3 +45,4 @@ Programs are split into two Python files, each with numbered sections for easy r
 
 I am D R Kiran, a 2nd-year B.Tech student in EEE.  
 This repository is a collection of basic Python programs learned and practiced as part of my college coursework.
+
