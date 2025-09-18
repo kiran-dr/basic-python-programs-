@@ -62,7 +62,7 @@ print(dict_1)
 
 #write a python to square of a number
 a=int(input("Enter a number:"))
-Square=a*a
+Square=a**2
 print("Square of a number:",Square)
 
 #find the avg of 3 number you have to get input from the user
