@@ -43,7 +43,8 @@ Programs are split into two Python files, each with numbered sections for easy r
 
 ## About Me
 
-I am D R Kiran, a 2nd-year B.Tech student in EEE.  
+I am D R Kiran, a 3rd-year B.Tech student in EEE.  
 This repository is a collection of basic Python programs learned and practiced as part of my college coursework.
+
 
 
